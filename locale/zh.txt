@@ -1,0 +1,33 @@
+#: locale=zh
+
+## Tour
+
+### Title
+tour.name = 玉井帝寶
+
+## Skin
+
+### Label
+Label_2858A0D9_3208_40D4_41C5_BBE059541259.text = 玉井帝寶
+Label_2858D0D9_3208_40D4_41BD_6558F17CDF55.text = DOLOR SIT AMET
+
+## Media
+
+### Title
+panorama_20D363DF_3238_C0CC_41C0_C760EDD864D3.label = 玉井帝寶俯視-2
+panorama_23A78508_3238_4134_416A_0EB80B6D1754.label = 玉井帝寶俯視-1
+photo_2EE55154_3208_41DC_41C2_3C7159AE49A1.label = 玉井帝寶
+video_24092BAF_32F8_414D_41BF_5B180FFE5C1C.label = 玉井帝寶六期全景動畫
+video_2C8FC368_3208_41F4_41B7_A46DE6259263.label = 玉井建案六期200131-1
+video_B8173322_AB54_5DFB_41D9_1EFC2868C765.label = 玉井帝寶六期全景動畫(新)
+
+## Popup
+
+### Body
+htmlText_2ECA505D_3208_3FCC_41B2_3BE87E20861A.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:12px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_AC1CD6C6_A652_7904_41C3_97FE2C934DDD.toolTip = 虛擬動畫影片
+HotspotPanoramaOverlayArea_AC1CE6C6_A652_7904_41C5_ADC54FA9FD14.toolTip = 虛擬動畫影片
