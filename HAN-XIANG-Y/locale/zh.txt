@@ -1,0 +1,11 @@
+#: locale=zh
+
+## Tour
+
+### Title
+tour.name = 玉井帝寶
+
+## Media
+
+### Title
+panorama_4357B717_4F14_C9F7_41C6_6C2784A9789C.label = DJI_0001-3
