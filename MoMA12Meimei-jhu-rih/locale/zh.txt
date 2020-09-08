@@ -1,0 +1,49 @@
+#: locale=zh
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 歸仁建案VR即時通
+
+## Media
+
+### Title
+panorama_0D9A3EA2_063D_AA3E_4197_06B2461215DD.label = 200818-1-正面40公尺已合成
+panorama_C8EF54E5_D83E_9FB0_41E4_EA21B36992EE.label = 200808-1-側面40公尺已合成-1
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_099BC081_0643_96FD_4170_E6CF8B59F58B.toolTip = 仁愛十二街
+HotspotPanoramaOverlayArea_1026CF9B_063F_9360_4183_6A5453A7FF4D.toolTip = 仁愛十六街
+HotspotPanoramaOverlayArea_1037B06F_063C_8DA0_418C_39E04A6B16DA.toolTip = 仁愛十六街
+HotspotPanoramaOverlayArea_1072548A_06DC_B560_4190_F86CC30719F9.toolTip = 仁愛南街
+HotspotPanoramaOverlayArea_1093B1A8_06C5_8EA0_418C_4736616D5F4D.toolTip = 信義南路
+HotspotPanoramaOverlayArea_10CB775C_06C4_73E0_4195_8253451C96C3.toolTip = 仁愛南街  巷
+HotspotPanoramaOverlayArea_10DC8230_06CC_8DA0_416B_E8FADDF03994.toolTip = 信義南路
+HotspotPanoramaOverlayArea_10F33FE2_06DC_92A1_4192_1D05310F4247.toolTip = 大成路
+HotspotPanoramaOverlayArea_12178582_064D_B761_417C_DB74F0409555.toolTip = 86東西向快速公路
+HotspotPanoramaOverlayArea_121E5FEF_0647_EA05_4172_BC53FD14BAD4.toolTip = 仁愛幼稚園
+HotspotPanoramaOverlayArea_1224F3E7_064F_9A05_417A_1EBAEFF26015.toolTip = 歸仁文化中心
+HotspotPanoramaOverlayArea_1227097A_065C_FFA1_418C_6CF7D2159E1C.toolTip = 看西里活動中心
+HotspotPanoramaOverlayArea_122DDEBE_067C_EA07_4161_E35336AB442C.toolTip = 紅瓦厝國小
+HotspotPanoramaOverlayArea_12325201_064C_B5FD_418D_858FAF3F1AAE.toolTip = 水野    氧生館
+HotspotPanoramaOverlayArea_123E75C7_064D_9E05_4192_B56900CBD824.toolTip = SPA
+HotspotPanoramaOverlayArea_12A76E73_0644_75A7_4181_8005664B668C.toolTip = 仁愛十六街
+HotspotPanoramaOverlayArea_131A874D_06DC_73E0_418E_01604D0E1774.toolTip = 仁愛十二街
+HotspotPanoramaOverlayArea_1329DCF2_06C3_B6A0_4194_BB7AE0AE68C1.toolTip = 仁愛南街  巷
+HotspotPanoramaOverlayArea_1E0EA755_06C4_B3E0_4184_E061BA2C1572.toolTip = 歸仁運動公園
+HotspotPanoramaOverlayArea_20C9F1C5_2E23_9CE8_41AD_10A8CEA22D13.toolTip = MoMA正面40公尺空中環景
+HotspotPanoramaOverlayArea_20CD0654_2E2D_87EF_41BC_236CDD7A38D0.toolTip = MoMA側面40公尺空中環景
+HotspotPanoramaOverlayArea_4B00FE00_4427_1D29_419E_B1B64579EF20.toolTip = 歸仁交流道
+HotspotPanoramaOverlayArea_4B79B9D9_4467_06DB_419B_C3AF5F64CB33.toolTip = 仁德交流道
+HotspotPanoramaOverlayArea_C9A43296_D84E_BB90_41E1_A3B7158D2796.toolTip = 仁愛十六街
+HotspotPanoramaOverlayArea_CA52149D_D84E_9F90_41B6_CCD42BE7A7D9.toolTip = 仁愛十六街
+HotspotPanoramaOverlayArea_CA5A37CF_D873_B9F0_41D6_B11074DDDB5F.toolTip = 信義南路
+HotspotPanoramaOverlayArea_CA9DBEDE_D876_8B90_41E3_2440F3DF833E.toolTip = 信義南路
+HotspotPanoramaOverlayArea_CB506734_D851_9A90_41D1_343F35854EB7.toolTip = 仁愛南街   巷
+HotspotPanoramaOverlayArea_CB9C0947_D84E_96F0_41E1_5515864ED567.toolTip = 仁愛十二街
+HotspotPanoramaOverlayArea_CBBC4746_D871_BAF0_41B0_CD2FA057A10D.toolTip = 大成路
+HotspotPanoramaOverlayArea_D6027EAC_D8F2_5627_41C8_CE20C27D5EE0.toolTip = 信義南路
