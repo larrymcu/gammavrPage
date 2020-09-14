@@ -2,10 +2,31 @@
 
 ## Tour
 
+### Description
+
 ### Title
 tour.name = 玉井帝寶
 
 ## Media
 
 ### Title
-panorama_4357B717_4F14_C9F7_41C6_6C2784A9789C.label = DJI_0001-3
+map_612784C6_71BF_1F7A_41CE_B0247B04F830.label = 玉井環境示意圖
+map_61B2FC24_71B1_0F3D_4190_34B3879EDC1A.label = 玉井環境示意圖
+map_7EFD09F9_71B3_0916_41D3_B3F8F68608E9.label = 玉井帝寶俯視-2
+map_8F8A41CD_8237_A678_41C1_E317E8DD4386.label = 玉井帝寶俯視-正
+panorama_61641E68_6C3C_93E6_41CA_AF902C16E586.label = 玉井帝寶俯視-2
+panorama_8EE074BF_8037_CA55_41D6_D52E2A68A39F.label = 玉井帝寶俯視-正
+video_24092BAF_32F8_414D_41BF_5B180FFE5C1C.label = 玉井帝寶六期全景動畫
+video_BBD20BF4_A584_9B1B_41D1_07D6BB2590C4.label = 玉井帝寶六期全景動畫(新)
+
+## Popup
+
+### Body
+htmlText_2ECA505D_3208_3FCC_41B2_3BE87E20861A.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_90514595_823D_AEE8_41D2_D84988144427.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_67459251_74D8_3D88_41B1_06647CF295D1.toolTip = 仁愛街105
+HotspotPanoramaOverlayArea_914502E0_805F_CFEB_41D4_9FDBFABE5587.toolTip = 仁愛街105
