@@ -1,0 +1,22 @@
+#: locale=zh
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 皇邑
+
+## Media
+
+### Title
+panorama_0AE24C74_010B_B69B_4153_214737F26034.label = 40-4米空拍正面-合成
+panorama_1D3885CF_0109_7186_415D_145E9B9AA150.label = 40-6米空拍背面-合成-1
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_13C7399F_0108_9186_4173_9CF00E87E666.toolTip = 皇邑空中背面40公尺環景
+HotspotPanoramaOverlayArea_1503B68B_0118_F38E_4166_59F7488B8A49.toolTip = 皇邑空中正面40公尺環景
+HotspotPanoramaOverlayArea_1802138A_0109_918F_4168_8C43707247AE.toolTip = 忠孝街  巷
+HotspotPanoramaOverlayArea_1BD58BCB_0178_918E_4164_C13B5213B1D7.toolTip = 忠孝街  巷
