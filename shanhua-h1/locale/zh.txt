@@ -1,0 +1,23 @@
+#: locale=zh
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 上禾2
+
+## Media
+
+### Title
+panorama_7E264C93_72B8_3F6A_41CD_55E49ACB22AA.label = 40-1-完成
+panorama_7F00C8B5_72B8_F8AE_419C_AACD837C0D68.label = 40-4背面
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_43475A17_4E27_0811_41C1_A79190E15515.toolTip = 善化高中
+HotspotPanoramaOverlayArea_5CB96F56_534D_01AE_41BC_20DBFBB66E8C.toolTip = 上禾正面40公尺環景
+HotspotPanoramaOverlayArea_5EB3F6B5_534D_00E2_419C_376D73B65E3F.toolTip = 上禾背面40公尺環景
+HotspotPanoramaOverlayArea_75F53CEE_65F5_2DA1_41D0_69EA4DAA2EE0.toolTip = 善化高中
+HotspotPanoramaOverlayArea_77331F5D_67C8_0D42_41CE_33A5AAAE60EE.toolTip = 成功路巷
